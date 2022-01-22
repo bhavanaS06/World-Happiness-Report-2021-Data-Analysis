@@ -1,2 +1,2 @@
 # World-Happiness-Report-2021-Data-Analysis
-This repositry contains data analysis project on "World Happiness Report 2021" data in python.
+This repositry contains a exploratory data analysis project on "World Happiness Report 2021" data in python. The dataset used in this proejct is a .csv file named "world-happiness-report-2021.csv". Analyzed the data using NumPy, Pandas, Matplotlib and Seaborn libraries in Jupyter Notebook. Graphs plotted in the notebook shows the correlation of happiness score of a country with GDP, Social support, Life Expectancy and Corruption.
